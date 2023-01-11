@@ -18,14 +18,14 @@
         android:paddingTop="10dp">
 
         <TextView
-            android:id="@+id/listViewPrice"
+            android:id="@+id/priceTxt"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="8,000"
             android:textColor="#00BBEE"
             android:textSize="22sp"/>
         <TextView
-            android:id="@+id/listViewAddress"
+            android:id="@+id/addressTxt"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="마포구 서교동,1층"
@@ -33,7 +33,7 @@
             android:textStyle="bold"
             android:textColor="@color/black"/>
         <TextView
-            android:id="@+id/listViewDescribed"
+            android:id="@+id/describedTxt"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="망원/홍대역...."/>
